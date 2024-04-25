@@ -8,3 +8,7 @@ This project is a starting point for a Flutter application.
 
 ### Include Deatails 
 You Can Create a  Resume using this APP
+
+
+PHOTO 
+
